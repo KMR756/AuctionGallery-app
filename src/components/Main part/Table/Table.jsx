@@ -1,5 +1,5 @@
 import React from "react";
-
+import { FaRegHeart } from "react-icons/fa";
 const Table = () => {
   return (
     <div className="bg-[#EBF0F5] ">
@@ -22,10 +22,16 @@ const Table = () => {
                   {/* head */}
                   <thead>
                     <tr>
-                      <th>Items</th>
-                      <th>Current Bid</th>
-                      <th>Time Left</th>
-                      <th>Bid Now</th>
+                      <th className="sora-regular text-xl">Items</th>
+                      <th className="sora-regular text-xl text-center">
+                        Current Bid
+                      </th>
+                      <th className="sora-regular text-xl text-center">
+                        Time Left
+                      </th>
+                      <th className="sora-regular text-xl text-center">
+                        Bid Now
+                      </th>
                     </tr>
                   </thead>
                   <tbody>
@@ -35,20 +41,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -58,20 +68,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -81,20 +95,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -104,20 +122,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -127,20 +149,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -150,20 +176,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -173,20 +203,24 @@ const Table = () => {
                         <div className="flex items-center gap-3">
                           <img src="" alt="" />
                           <div>
-                            <div className="font-bold">Hart Hagerty</div>
-                            <div className="text-sm opacity-50">
+                            <div className="sora-regular text-[18px] text-[#0E2954] ">
+                              Hart Hagerty
+                            </div>
+                            <div className="sora-regular text-[14px] text-[#0E2954]">
                               United States
                             </div>
                           </div>
                         </div>
                       </td>
-                      <td>
-                        <div>currect bit</div>
+                      <td className="text-center sora-medium text-[18px] text-[#0E2954]">
+                        $ currect bit
                       </td>
-                      <td>time left</td>
-                      <th>
-                        <button className="btn btn-ghost btn-xs">
-                          bit now
+                      <td className="sora-medium text-[18px] text-center text-[#0E2954]">
+                        2 Days left
+                      </td>
+                      <th className="text-center">
+                        <button className="cursor-pointer  text-[#0E2954]">
+                          <FaRegHeart size={35} />
                         </button>
                       </th>
                     </tr>
@@ -204,7 +238,9 @@ const Table = () => {
                     <tr>
                       <th colSpan={4} className="text-center">
                         <div className="flex justify-center items-center">
-                          <h1>Favorite Items</h1>
+                          <h1 className="sora-medium text-3xl text-[#0E2954] flex gap-4 py-3 ">
+                            <FaRegHeart size={35} /> Favorite Items
+                          </h1>
                         </div>
                       </th>
                     </tr>
@@ -213,9 +249,11 @@ const Table = () => {
                     {/* favorites */}
                     <tr>
                       <td colSpan={4} className="text-center">
-                        <div>
-                          <h3>No favorites yet</h3>
-                          <p>
+                        <div className="py-12">
+                          <h3 className="sora-medium text-2xl">
+                            No favorites yet
+                          </h3>
+                          <p className="sora-regular text-xl mt-6">
                             Click the heart icon on any item to add it to your
                             favorites
                           </p>
@@ -224,8 +262,15 @@ const Table = () => {
                     </tr>
                     {/* row 2 */}
                     <tr>
-                      <td colSpan={3}>Total bids Amount</td>
-                      <td>$0000</td>
+                      <td
+                        colSpan={3}
+                        className="sora-regular text-2xl pl-10 py-8"
+                      >
+                        Total bids Amount
+                      </td>
+                      <td className="sora-medium text-2xl text-right pr-10">
+                        $0000
+                      </td>
                     </tr>
                   </tbody>
                 </table>
