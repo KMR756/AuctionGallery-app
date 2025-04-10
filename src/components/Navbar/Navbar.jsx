@@ -13,17 +13,17 @@ const Navbar = () => {
           </h1>
         </div>
         <div className="">
-          <ul className=" flex    gap-40">
-            <li className="poppins-regular text-xl">
+          <ul className=" flex  xl:gap-40 lg:gap-20 sm:gap-10">
+            <li className="lg:poppins-regular sm:poppins-light md:poppins-light   lg:text-xl sm:text-xs">
               <a>Home</a>
             </li>
-            <li className="poppins-regular text-xl">
+            <li className=" lg:poppins-regular sm:poppins-light lg:text-xl sm:text-xs">
               <a>Auctions</a>
             </li>
-            <li className="poppins-regular text-xl">
+            <li className="lg:poppins-regular sm:poppins-light lg:text-xl sm:text-xs">
               <a>Categories</a>
             </li>
-            <li className="poppins-regular text-xl">
+            <li className="lg:poppins-regular sm:poppins-light lg:text-xl sm:text-xs">
               <a>How to works</a>
             </li>
           </ul>
