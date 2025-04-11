@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Vintage Leica M3 Camera",
     "description": "A classic 35mm rangefinder camera from the 1950s, renowned for its precision and build quality.",
-    "currentBidPrice": "2,855",
+    "currentBidPrice": 2855,
     "timeLeft": "2",
     "bidsCount": 5,
     "image": "https://i.ibb.co.com/N6DDL8Kd/Bid1-min.png"
@@ -12,7 +12,7 @@
     "id": 2,
     "title": "1965 Gibson SG Standard Electric Guitar",
     "description": "A legendary rock guitar with a slim neck, sharp body contours, and powerful tone.",
-    "currentBidPrice": "1,750",
+    "currentBidPrice": 1750,
     "timeLeft": "1",
     "bidsCount": 10,
     "image": "https://i.ibb.co.com/gZ7r7WVZ/Bid2-min.png"
@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Original Apple Macintosh 128K (1984)",
     "description": "The groundbreaking personal computer that introduced the graphical user interface to the public.",
-    "currentBidPrice": "2,749",
+    "currentBidPrice": 2749,
     "timeLeft": "3",
     "bidsCount": 8,
     "image": "https://i.ibb.co.com/20hX33Zn/Bid3-min.png"
@@ -30,7 +30,7 @@
     "id": 4,
     "title": "Rolex Submariner 16610",
     "description": "A luxury dive watch known for its robust design and iconic appearance.",
-    "currentBidPrice": "3,960",
+    "currentBidPrice": 3960,
     "timeLeft": "3",
     "bidsCount": 4,
     "image": "https://i.ibb.co.com/7xJWYcdQ/Bid4-min.png"
@@ -39,7 +39,7 @@
     "id": 5,
     "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
     "description": "A rare first printing of the classic American novel, cherished by collectors.",
-    "currentBidPrice": "2,850",
+    "currentBidPrice": 2850,
     "timeLeft": "4",
     "bidsCount": 2,
 
@@ -49,7 +49,7 @@
     "id": 6,
     "title": "Mid-Century Modern Eames Lounge Chair",
     "description": "An iconic piece of furniture, combining comfort and style with a sleek, ergonomic design.",
-    "currentBidPrice": "2,009",
+    "currentBidPrice": 2009,
     "timeLeft": "2",
     "bidsCount": 15,
     "image": "https://i.ibb.co.com/5XwrqF96/Bid5-min.png"
@@ -58,7 +58,7 @@
     "id": 7,
     "title": "Banksy Original Screen Print",
     "description": "A limited-edition work by the elusive street artist, combining social commentary with distinctive stenciled art.",
-    "currentBidPrice": "1,999",
+    "currentBidPrice": 1999,
     "timeLeft": "3",
     "bidsCount": 7,
     "image": "https://i.ibb.co.com/9myytGzj/Bid7-min.png"
