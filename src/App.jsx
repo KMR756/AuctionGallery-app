@@ -1,16 +1,17 @@
+import { Suspense } from "react";
 import "./App.css";
 import Banner from "./components/Banner/Banner";
 import Footer from "./components/Footer/Footer";
-import Table from "./components/Main part/Table/Table";
+import Table from "./components/Main_part/Table/Table";
 import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <>
-      <Navbar></Navbar>
-      <Banner></Banner>
-      <Table></Table>
-      <Footer></Footer>
+      <Navbar />
+      <Banner />
+      <Table />
+      <Footer />
     </>
   );
 }
